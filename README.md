@@ -15,4 +15,17 @@
 ```
 
 ### Example:
-[display direction](https://embed.plnkr.co/aiWo0ykJbjrXNJ3nbqEe/)
+[DEMO: display direction](https://embed.plnkr.co/aiWo0ykJbjrXNJ3nbqEe/)
+
+
+## 2. `order`
+
+Change the element order.
+
+`order: -1` will put the element to the first place, if you have mutli `order: -1` defined, it will also according to the 
+element order in DOM.
+
+### Example
+[DEMO: Order](https://embed.plnkr.co/yHethVQUyjem7G9mztFc/)
+
+## 3. 
