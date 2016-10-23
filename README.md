@@ -40,10 +40,13 @@ body {
 }
 ```
 
+### Image
+![justify-content](https://www.w3.org/TR/css-flexbox-1/images/flex-pack.svg)
+
 ### Example
 [DEMO: justify-content](https://embed.plnkr.co/UlflR3Oy36RxufplPyfP/)
 
-## 4. align-item
+## 4. align-items
 
 ```css
 body {
@@ -118,6 +121,7 @@ Recommend to use `flex-basis` to control the width.
  
 affect the whole wrapper, not single element
 
-[DEMO flex-wrap, align-contetn](https://embed.plnkr.co/5t0R7xH9eVmekxGalAQa/)
+### Image
+![align-content](https://www.w3.org/TR/css-flexbox-1/images/align-content-example.svg)
 
-## 9. 
+[DEMO flex-wrap, align-contetn](https://embed.plnkr.co/5t0R7xH9eVmekxGalAQa/)
