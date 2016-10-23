@@ -15,4 +15,4 @@
 ```
 
 ### Example:
-![display direction](https://embed.plnkr.co/aiWo0ykJbjrXNJ3nbqEe/)
+[display direction](https://embed.plnkr.co/aiWo0ykJbjrXNJ3nbqEe/)
